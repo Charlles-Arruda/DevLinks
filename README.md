@@ -1,4 +1,5 @@
-# Saiba_Mais_Instagram
+#  DevLinks
+
 
 Desenvolvi uma aplicação web em parceria com o curso Discovery da Rocketseat, utilizando conhecimentos em HTML, CSS, JS e Git/GitHub.
 A aplicação consiste em uma página com botões totalmente personalizáveis, nos quais é possível adicionar links para redirecionar para meu LinkedIn ou GitHub, por exemplo. 
